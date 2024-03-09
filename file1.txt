@@ -5,3 +5,4 @@ Feature a
 Feature b
 Feature c
 Master
+Master
