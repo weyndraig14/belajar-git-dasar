@@ -6,3 +6,4 @@ Feature b
 Feature c
 Master
 Master
+Feature merge squash
