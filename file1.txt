@@ -1,4 +1,5 @@
 Menambah file1.txt
 Menambah baris di file3.txt
 Feature 1
-Tambahkan feature a
+Feature a
+Feature b
