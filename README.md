@@ -4,9 +4,7 @@ GIT DASAR
    
    A. Apa itu git?
    
-      Git, yang diciptakan oleh Linus Torvalds pada tahun 2005, menjadi populer karena
-      sifatnya yang terdistribusi dan fleksibilitasnya, terutama dalam proyek-proyek sumber
-      terbuka yang kolaboratif.
+      Git adalah sebuah sistem kontrol versi yang sangat populer dan kuat yang digunakan oleh pengembang perangkat lunak untuk mengelola perubahan dalam kode sumber proyek, Dikembangkan oleh Linus Torvalds pada tahun 2005, Git dirancang untuk menjadi cepat, efisien, dan mudah digunakan, serta mendukung pekerjaan tim yang terdistribusi.
 
    B. Cara Kerja git
 
@@ -103,8 +101,7 @@ GIT DASAR
 3) Kesimpulan
 
    GIT adalah alat yang sangat penting dan bermanfaat bagi pengembang perangkat lunak untuk mengelola 
-   proyek mereka dengan efisien. Dengan kemampuannya yang kuat dalam version control, 
-   kolaborasi, dan branching, GIT sangat membantu dalam proses pengembangan perangkat lunak yang kompleks.
+proyek mereka dengan efisien. Dengan kemampuannya yang kuat dalam version control, kolaborasi, dan branching, GIT sangat membantu dalam proses pengembangan perangkat lunak yang kompleks.
 
  
  
