@@ -1,12 +1,12 @@
 GIT DASAR  
 
-1. Poin utama :
+1) Poin utama :
    
 A. Apa itu git?
 
-Git, yang diciptakan oleh Linus Torvalds pada tahun 2005, menjadi populer karena
-sifatnya yang terdistribusi dan fleksibilitasnya, terutama dalam proyek-proyek sumber
-terbuka yang kolaboratif.
+   Git, yang diciptakan oleh Linus Torvalds pada tahun 2005, menjadi populer karena
+   sifatnya yang terdistribusi dan fleksibilitasnya, terutama dalam proyek-proyek sumber
+   terbuka yang kolaboratif.
 
 B. Cara Kerja git
 
@@ -96,11 +96,11 @@ i) Git blame
 
   1. Perintah "git blame" Git membantu melacak siapa yang membuat perubahan pada sebuah file dan kapan, memberikan tampilan terperinci tentang kepengarangan setiap baris dan komit terkait.
 
-2. Pertanyaan dan catatan tambahan
+2) Catatan tambahan
    
-  a. Git sangat berguna untuk pekerjaan dalam sebuah tim dan sangat feleksibel karena ketika kita berganti device kita tidak perlu khawatir dengan projeck kita, karena sudah tersimpan aman.
+     a. Git sangat berguna untuk pekerjaan dalam sebuah tim dan sangat feleksibel karena ketika kita berganti device kita    tidak perlu khawatir dengan projeck kita, karena sudah tersimpan aman.
 
-3. Kesimpulan
+3) Kesimpulan
 
     GIT adalah alat yang sangat penting dan bermanfaat bagi pengembang perangkat lunak untuk mengelola 
     proyek mereka dengan efisien. Dengan kemampuannya yang kuat dalam version control, 
